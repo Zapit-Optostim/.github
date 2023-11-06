@@ -3,6 +3,12 @@
 This is the home of the Zapit project: a scanner-based optostimulator system for head-fixed mouse behavioral tasks.
 Zapit is developed at the Sainsbury Wellcome Centre, UCL. 
 
+<b>
+<a href="https://github.com/Zapit-Optostim/ZapitSfNPoster/blob/main/SfN_2023_Zapit_full_RAAC_SWC.pdf">** See Our 2023 SfN Poster!** </a>
+</b>
+
+
+
 <img src="https://github.com/Zapit-Optostim/.github/blob/main/zapit_with_mouse.png" width=500px>
 
 The [Zapit](https://github.com/Zapit-Optostim/zapit) repo hosts the MATLAB code running the scanner calibration GUI, stimulus creation GUI, and the MATLAB API for running experiments. Zapit also availble via the [MATLAB FileExchange](https://uk.mathworks.com/matlabcentral/fileexchange/122142-zapit) or through the [AddOn Manager](https://uk.mathworks.com/help/matlab/matlab_env/get-add-ons.html), accessible via the MATLAB Toolstrip.
