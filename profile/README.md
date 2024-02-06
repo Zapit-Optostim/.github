@@ -22,4 +22,4 @@ pip install zapit-Python-Bridge
 ```
 
 ## Inspiration
-This project was inspired by studies from the [Svoboda](https://www.cell.com/neuron/fulltext/S0896-6273(13)00924-0) and [Tank and Brody](https://elifesciences.org/articles/70263). 
+This project was inspired by studies from the labs of [Svoboda](https://www.cell.com/neuron/fulltext/S0896-6273(13)00924-0) and [Tank and Brody](https://elifesciences.org/articles/70263). 
