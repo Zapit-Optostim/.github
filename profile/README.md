@@ -4,7 +4,7 @@ This is the home of the Zapit project: a scanner-based optostimulator system for
 Zapit is developed at the Sainsbury Wellcome Centre, UCL. 
 
 <b>
-<a href="https://www.biorxiv.org/content/10.1101/2024.02.12.579892v1">Click Here To See Our BioRxiv preprint</a>
+<a href="https://elifesciences.org/reviewed-preprints/111872">Click here To See Our paper in eLife</a>
 </b>
 
 <hr>
